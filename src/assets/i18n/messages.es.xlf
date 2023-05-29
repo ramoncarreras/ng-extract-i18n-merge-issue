@@ -1,0 +1,47 @@
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" srcLang="en" trgLang="es">
+  <file original="ng.template" id="ngi18n">
+    <unit id="5890833044137447416">
+      <notes>
+        <note category="location">src/app/app.component.ts:10</note>
+        <note category="description">This is the welcoming message</note>
+      </notes>
+      <segment state="initial">
+        <source>Welcome!</source>
+        <target>Welcome!</target>
+      </segment>
+    </unit>
+    <unit id="2685575179567622929">
+      <notes>
+        <note category="location">src/app/app.component.ts:12</note>
+        <note category="location">src/app/app.component.ts:13</note>
+        <note category="location">src/app/app.component.ts:14</note>
+        <note category="location">src/app/app.component.ts:22</note>
+      </notes>
+      <segment state="initial">
+        <source>Duplicated text</source>
+        <target>Duplicated text</target>
+      </segment>
+    </unit>
+    <unit id="5495932818053167545">
+      <notes>
+        <note category="location">src/app/app.component.ts:24</note>
+        <note category="description">This is the description of a non duplicated text</note>
+      </notes>
+      <segment state="initial">
+        <source>Non duplicated text</source>
+        <target>Non duplicated text</target>
+      </segment>
+    </unit>
+    <unit id="2408099625993627791">
+      <notes>
+        <note category="location">src/app/app.component.ts:26</note>
+        <note category="location">src/app/app.component.ts:27</note>
+        <note category="description">Description of first duplicated text</note>
+      </notes>
+      <segment state="initial">
+        <source>Duplicated text with description</source>
+        <target>Duplicated text with description</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
